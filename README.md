@@ -43,9 +43,9 @@ pip install -r requirements.txt
 
 ## Contributor
 
-THOMASSIN Pablo : pablo.thomassin@etu.u-paris.fr
-COZ Olivier : olivier.coz@etu.u-paris.fr
-BERDOUS Louiza : louiza.berdous@etu.u-paris.fr
+- THOMASSIN Pablo : pablo.thomassin@etu.u-paris.fr
+- COZ Olivier : olivier.coz@etu.u-paris.fr
+- BERDOUS Louiza : louiza.berdous@etu.u-paris.fr
 
 ## License
 
